@@ -1,2 +1,2 @@
-# ITC172Assignment3
-ITC172 assignment3
+# ITC172Assignment3-2017-
+First example from ADO assignment
